@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 
 //all of the logic JS goes here
 export class AppComponent {
-  title = 'ng7';
+  title = 'my first ng7 app';
 }
